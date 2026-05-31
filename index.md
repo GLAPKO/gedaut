@@ -40,7 +40,9 @@
 
 ### 4.2. Jednotná penalizace
 
-Za jakýkoliv přestupek z bodu 4.1 následuje okamžitá ztráta míče. Provinilý hráč musí provést **trestnou rozehrávku**, čímž přichází o útočnou výhodu a je automaticky zmražen (viz bod 3.1). Opakované nebo úmyslné porušování pravidel v jednom kole vede k okamžitému vyřazení z kola.
+Za jakýkoliv přestupek z bodu 4.1 následuje trestná rozehrávka, která se uplatní až v okamžiku, kdy se míč dotkne vodní hladiny nebo hráče, který přestupek spáchal. Faulovaný hráč nemůže být během této doby vyřazen pravidlem posledního doteku.
+
+Opakované nebo úmyslné porušování pravidel v jednom kole vede k okamžitému vyřazení z kola.
 
 ## 5. Fyzický kontakt a Bezpečnost
 
