@@ -1,64 +1,124 @@
-# OFICIÁLNÍ PRAVIDLA SPORTU: GEDAUT
+# 1. Základní ustanovení
 
-## 1. Vybavení a Cíl hry
+## 1.1. Název sportu
+Sport se jmenuje Gedaut.
 
-* **1.1. Herní prostor:** Kulatý bazén s flexibilními rozměry podle počtu hráčů.
-* **1.2. Herní náčiní:** Plastový míč o průměru větším než 15 cm (doporučený standard cca 20 cm).
-* **1.3. Cíl hry:** Mód „Přeživší“ (Survival) – eliminovat soupeře a zůstat v bazénu jako poslední.
+## 1.2. Cíl hry
+V základní verzi je cílem eliminovat všechny soupeře.
 
-## 2. Průběh hry a Eliminace
+# 2. Herní vybavení
 
-* **2.1. Systém kol:** Hra se skládá z jednotlivých kol. Vítěz předchozího kola rozehrává zevnitř bazénu.
-* **2.2. Pravidlo posledního doteku:** Hráč vypadává z kola, pokud se jako poslední dotkne míče předtím, než míč kompletně opustí prostor bazénu (vyletí ven). Předchozí doteky hladiny nemají na eliminaci vliv. V případě rozporuplného doteku se kolo opakuje a nikdo nevypadává kvůli tomu.
-* **2.3. Handicap pro poražené:** Hráč, který v předchozím kole vypadl, rozehrává nové kolo ze specifického místa **mimo bazén**.
+## 2.1. Bazén
 
-## 3. Klíčové definice
+### 2.1.1. Tvar
+Bazén musí mít kruhový tvar.
 
-### 3.1. Rozehrání (The Serve)
+### 2.1.2. Velikost
+Velikost se určuje podle počtu hráčů.
 
-* **Provedení:** Rozehrávající hráč musí hodit míč tak, aby přibližně proletěl středem bazénu.
-* **Fáze rozehrání:** Končí v momentě, kdy se míč poprvé dotkne vodní hladiny.
-* **Imunita:** Během trajektorie rozehrání (před dotykem hladiny) nemůže žádný hráč vypadnout. Při neúspěšném pokusu se rozehrání opakuje (hráč má omezený počet pokusů).
-* **Status rozehrávače:** Hráč je v momentě odhodu rozehrávky **automaticky zmražen**.
+## 2.2. Míč
 
-### 3.2. Vybití a Zmražení (Freeze)
+### 2.2.1. Tvar
+Míč musí mít koulovitý tvar.
 
-* **Definice Vybití:** Hráč A úspěšně vybije Hráče B pouze tehdy, pokud se míč dotkne Hráče A, následně jakékoliv části těla Hráče B **s výjimkou rukou (od zápěstí dolů včetně dlaně a prstů)** a poté dopadne na vodní hladinu **bez jakéhokoliv jiného mezidoteku** (např. o stěnu nebo třetího hráče).
-* **Omezení ve zmražení:** Zmražený hráč smí normálně hrát a pohybovat se, ale k manipulaci s míčem **nesmí použít celé horní končetiny** (od ramen po konečky prstů).
-* **Odmražení (Unfreeze):** Zmražený hráč se okamžitě vrací do plné hry (smí opět hrát rukama), jakmile se míč dotkne stěny bazénu nebo jakéhokoliv jiného hráče.
+### 2.2.2. Velikost
+Průměr míče musí být přibližně 15 až 30 cm.
 
-## 4. Přestupky a Tresty
+### 2.2.3. Materiál
+Míč musí být z gumy nebo podobného materiálu. Materiál nesmí zranit ani při prudších střelách.
 
-### 4.1. Seznam přestupků
+## 2.3. Výstroj hráčů
+// TODO!
 
-* **a) Pohyb s míčem:** Chůze nebo běh po dně bazénu s míčem v ruce.
-* **b) Zakázaný dotek:** Použití horní končetiny pro hru s míčem v momentě zmražení (včetně reflexivních doteků).
-* **c) Zdržování hry:** Bezdůvodné zadržování míče v ruce (doporučený limit 3–5 sekund).
-* **d) Naznačování (Fejk):** Naznačení střely na soupeře bez následného odhodu míče.
-* **e) Nedovolené držení:** Jakékoliv držení soupeře, chytání za plavky, nebo fyzické blokování rukama, které brání soupeři v pohybu či hře.
-* **f) Úmyslné stříkání vody:** Stříkání vody do očí soupeře (zakázáno v základní verzi bez plaveckých brýlí).
+# 3. Struktura hry
 
-### 4.2. Jednotná penalizace
+## 3.1. Hra
+Hra začíná zahájením rozehrávky.
 
-Za jakýkoliv přestupek z bodu 4.1 následuje trestná rozehrávka, která se uplatní až v okamžiku, kdy se míč dotkne vodní hladiny nebo hráče, který přestupek spáchal. Faulovaný hráč nemůže být během této doby vyřazen pravidlem posledního doteku.
+## 3.2. Přerušení
+Hra se přeruší a hráči ztratí všechny herní stavy. Pokud zůstane poslední hráč, hra končí a proběhne vyhodnocení.
 
-Opakované nebo úmyslné porušování pravidel v jednom kole vede k okamžitému vyřazení z kola.
 
-## 5. Fyzický kontakt a Bezpečnost
+# 4. Herní stavy
 
-* **5.1. Povolený kontakt:** Taktické clonění tělem a basketbalové vyrážení míče z ruky soupeře jsou povoleny.
-* **5.2. Zakázaný kontakt:** Úmyslné fauly s cílem způsobit bolest se trestají okamžitou diskvalifikací z celého zápasu.
-* **5.3. Speciální ustanovení:** Použití zbraní hromadného ničení (včetně atomových) je přísně zakázáno. Trestem je doživotní zákaz vstupu do bazénu.
+## 4.1. Imunita
+pokud je hráč imunní a míč opustí prostor bazénu, tento hráč nesmí být poslední míčem dotknutý.
 
----
+### 4.1.1 Zánik
+Hráč přestává být imunní při dotyku míče s vodní hladinou.
 
-## 6. Taktický věstník (Příloha)
+# 4.2. Zmražení
+Pokud je hráč zmražený, tak se nesmí míče dotknout horní končetinou.
 
-* **Side Shot (Boční střela):** Útočník střílí zblízka daleko od svého těla směrem k bližšímu okraji bazénu a míří na bok oponenta. Cíl: Odrazit míč od soupeře ven z bazénu. Bezpečnostní prvek: Při úhybu nebo minutí letí míč bezpečně na střed bazénu, takže útočník nevyřadí sám sebe.
-* **Drop Shot (Kraťas):** Lehký shoz obloučkem na tělo soupeře (břicho/koleno) tak, aby míč ihned spadl na hladinu. Ztěžuje soupeři reakci a následný unfreeze.
-* **Bank Bait (Mantinelová past):** Střela o stěnu těsně vedle nebo za zmraženého hráče, která se odrazí do jeho nekrytých zad a následně letí ven z bazénu.
-* **Wall-Tap:** Taktický prvek zmraženého hráče, který nohou dotlačí míč ke stěně bazénu, čímž se okamžitě odmrazí a může ihned hrát rukama.
+### 4.2.1 Zánik
+Hráč přestává být zmražený při dotyku míče se stěnou bazénu nebo jiným hráčem.
 
-## 7. Týmová varianta (GEDAUT Teams)
+# 5. Herní akce
+Akce, které během hry mohou nastat.
 
-Pro hru v týmech. Vyřazení spoluhráči stojící mimo bazén mohou zachránit spoluhráče uvnitř: Pokud míč letí z bazénu ven (což by znamenalo eliminaci), vyřazený hráč ho může chytit **ve vzduchu** dřív, než se dotkne země. Pokud ho chytí a hodí zpět do vody, hra pokračuje.
+## 5.1. Poslední dotek
+Pokud míč opustí prostor bazénu, poslední hráč, který se míče dotkl, vypadává za předpokladu, že není imunní. V případě sporného doteku se kolo může opakovat.
+
+## 5.2. Rozehrávka
+
+### 5.2.1. Odhoz
+Hlavní rozehrávající hráč musí hodit míč tak, aby měl dostatečný úhel a rychlost na průlet přibližně středem bazénu.
+
+### 5.2.2. Imunita hráčů
+Všichni hráči jsou při odhozu imunní.
+
+### 5.2.3. Zmražení rozehrávajících
+Všichni rozehrávající jsou hned po odhozu zmraženi.
+
+## 5.3. Vybití
+Pokud se míč dotkne hráče A, hráče B s výjimkou rukou, a následně vodní hladiny v daném pořadí a bez jakéhokoli mezidoteku, hráč B je zmražený.
+
+## 5.4. Stínění
+Pokud se hráč A dotýká míče rukou (a míč se současně nedotýká vodní hladiny) a hráč B se současně dotýká hráče A, hráč B je imunní.
+
+# 6. Herní fauly
+Fauly, které mohou během hry nastat.
+
+## 6.1. Druhy
+
+### 6.1.1. Špatný odhoz
+Hlavní rozehrávající hráč porušil odhoz při rozehrávce.
+
+### 6.1.2. Dotknutá imunita
+Hráč porušil svou imunitu.
+
+### 6.1.3. Nedovolené odmražení
+Hráč porušil své zmražení.
+
+### 6.1.4. Pohyb s míčem
+Hráč plave, chodí nebo běhá s míčem v ruce.
+
+### 6.1.5. Zdržování hry
+Hráč se bezdůvodně dlouho potápí nebo drží míče v ruce (doporučený limit max 5 sekund).
+
+### 6.1.6. Nedovolené držení
+Hráč jakkoli drží soupeře, chytá ho za plavky nebo ho fyzicky blokuje rukama, které brání soupeři v pohybu či hře. Faulovaný hráč je omezen tímto faulem.
+
+### 6.1.7. Stříkání vody
+Hráč stříká vodu do očí soupeře. Faulovaný hráč je omezen tímto faulem.
+
+## 6.2. Hráči
+
+### 6.2.1. Faulující
+Faulující je každý hráč, který se dopustil faulu.
+
+### 6.2.2. Faulovaný
+Faulovaný je každý hráč, který byl omezen faulem. Pokud faul neuvádí jinak, faulovanými jsou všichni hráči kromě faulujícího.
+
+## 6.3. Trest
+
+### 6.3.1. Prvotní
+První faulující hráč se stane hlavním rozehrávajícím rozehrávky, která se uplatní až v okamžiku, kdy se míč dotkne vodní hladiny.
+Každý faulovaný hráč je imunní.
+
+### 6.3.2. Sekundární
+Každý další faulující hráč během této doby se stává spolurozehrávajícím.
+Pokud všichni faulovaní hráči zároveň faulovali, hra pokračuje beze změny.
+
+### 6.3.3. Vyšší
+Úmyslné porušení pravidel vede k okamžitému vyřazení z kola.
