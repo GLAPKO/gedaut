@@ -47,7 +47,7 @@ pokud je hráč imunní a míč opustí prostor bazénu, tento hráč nesmí bý
 ### 4.1.1 Zánik
 Hráč přestává být imunní při dotyku míče s vodní hladinou.
 
-# 4.2. Zmražení
+## 4.2. Zmražení
 Pokud je hráč zmražený, tak se nesmí míče dotknout horní končetinou.
 
 ### 4.2.1 Zánik
