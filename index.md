@@ -24,13 +24,13 @@ Míč nesmí zranit ani při prudkých střelách.
 
 ### Zakázaná výstroj
 * Šperky, hodinky, fitness náramky a jiné pevné či ostré předměty.
-* Jakékoli předměty, které by mohly mechanicky poškodit Míč nebo stěny bazénu.
-* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii Míče ve prospěch daného hráče.
+* Jakékoli předměty, které by mohly mechanicky poškodit míč nebo stěny bazénu.
+* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii míče ve prospěch daného hráče.
 
 # Definice
 
 ## *Hráč*
-Fyzická osoba a jeho vybavení hrající v aktuální hře.
+Fyzická osoba a jeho vybavení hrající v aktuální *hře*.
 
 ## *Účastník*
 Fyzická osoba účastnící se v nejširším kontextu soutěže.
@@ -41,7 +41,7 @@ Kolo se skládá z jednotlivých her a přestávek mezi nimi.
 **Konec:** V bazénu zbývá jeden nebo žádný *hráč*.
 
 ## *Hra*
-Základní herní jednotka. Pouze během ní se vyhodnocují herní stavy, akce a fauly.
+Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akce a fauly.
 **Začátek:** Zahájení vhazováním, není-li stanoveno jinak.
 **Konec:** Vypadnutí *hráče* z kola nebo technické přerušení.
 
