@@ -25,7 +25,7 @@ Míč nesmí zranit ani při prudkých střelách.
 ### Zakázaná výstroj
 * Šperky, hodinky, fitness náramky a jiné pevné či ostré předměty.
 * Jakékoli předměty, které by mohly mechanicky poškodit míč nebo stěny bazénu.
-* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii míče ve prospěch daného hráče.
+* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii míče ve prospěch daného *hráče*.
 
 # Definice
 
