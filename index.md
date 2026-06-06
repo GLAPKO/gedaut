@@ -1,124 +1,118 @@
-# 1. Základní ustanovení
+# Základní ustanovení
 
-## 1.1. Název sportu
+## Název sportu
 Sport se jmenuje Gedaut.
 
-## 1.2. Cíl hry
-V základní verzi je cílem eliminovat všechny soupeře.
+## Cíl hry
+Cílem je zůstat jako poslední v bazéně.
 
-# 2. Herní vybavení
+# Herní vybavení
 
-## 2.1. Bazén
+## Bazén
+Bazén musí být kruhovitého tvaru o průměru přibližně 3.5 m až 7 m.
+Bazén nesmí obsahovat nebezpečné a ostré části.
 
-### 2.1.1. Tvar
-Bazén musí mít kruhový tvar.
+## Míč
+Míč musí být koulovitého tvaru o průměru přibližně 15 cm až 30 cm.
+Míč musí být z voděodolného materiálu a naplněn vzduchem na přiměřenou hodnotu.
+Míč nesmí zranit ani při prudkých střelách.
 
-### 2.1.2. Velikost
-Velikost se určuje podle počtu hráčů.
+## Výstroj hráčů
 
-## 2.2. Míč
+### Povinná výstroj
+* Spodní díl plavek.
 
-### 2.2.1. Tvar
-Míč musí mít koulovitý tvar.
+### Zakázaná výstroj
+* Šperky, hodinky, fitness náramky a jiné pevné či ostré předměty.
+* Jakékoli předměty, které by mohly mechanicky poškodit Míč nebo stěny bazénu.
+* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii Míče ve prospěch daného hráče.
 
-### 2.2.2. Velikost
-Průměr míče musí být přibližně 15 až 30 cm.
+# Definice
 
-### 2.2.3. Materiál
-Míč musí být z gumy nebo podobného materiálu. Materiál nesmí zranit ani při prudších střelách.
+## *Hráč*
+Fyzická osoba a jeho vybavení hrající v aktuální hře.
 
-## 2.3. Výstroj hráčů
-// TODO!
+## *Účastník*
+Fyzická osoba účastnící se v nejširším kontextu soutěže.
 
-# 3. Struktura hry
+## *Kolo*
+Kolo se skládá z jednotlivých her a přestávek mezi nimi.
+**Začátek:** Zahájení první hry.
+**Konec:** V bazénu zbývá jeden nebo žádný *hráč*.
 
-## 3.1. Hra
-Hra začíná zahájením rozehrávky.
+## *Hra*
+Základní herní jednotka. Pouze během ní se vyhodnocují herní stavy, akce a fauly.
+**Začátek:** Zahájení vhazováním, není-li stanoveno jinak.
+**Konec:** Vypadnutí *hráče* z kola nebo technické přerušení.
 
-## 3.2. Přerušení
-Hra se přeruší a hráči ztratí všechny herní stavy. Pokud zůstane poslední hráč, hra končí a proběhne vyhodnocení.
+# *Herní* stavy
 
+## Imunita
+**Podmínka:** Pokud je *hráč* imunní, nemůže být vyřazen pravidlem posledního doteku.
+**Zánik:** Míč se dotkne vodní hladiny.
 
-# 4. Herní stavy
+## Zmražení
+**Podmínka:** Pokud je *hráč* zmražený, nesmí se dotknout míče horní končetinou.
+**Zánik:** Míč se dotkne stěny bazénu nebo jiného *hráče*.
 
-## 4.1. Imunita
-pokud je hráč imunní a míč opustí prostor bazénu, tento hráč nesmí být poslední míčem dotknutý.
+# *Herní* akce
 
-### 4.1.1 Zánik
-Hráč přestává být imunní při dotyku míče s vodní hladinou.
+## Poslední dotek
+Míč opustí prostor bazénu.
 
-## 4.2. Zmražení
-Pokud je hráč zmražený, tak se nesmí míče dotknout horní končetinou.
+**Následek:** *Hráč*, který se míče dotkl jako poslední, vypadává z *kola* (pokud nemá stav imunita). V případě sporného doteku se *hra* opakuje.
 
-### 4.2.1 Zánik
-Hráč přestává být zmražený při dotyku míče se stěnou bazénu nebo jiným hráčem.
+## Vhazování
+Uvedení míče do *hry* při zahájení nebo po technickém přerušení.
+**Podmínka:** Rozhodčí nebo určená osoba vhodí míč na střed bazénu z místa mimo bazén. Všichni *hráči* se v momentu odhozu musí dotýkat stěny bazénu.
+Určená osoba může být ta, která vypadla v přechozí *hře*.
 
-# 5. Herní akce
-Akce, které během hry mohou nastat.
+## Rozehrávka
+Zahájení *hry* odhozem míče.
+**Podmínka:** Hlavní rozehrávající *hráč* musí odhodit míč dostatečnou rychlostí přibližně na průlet středem bazénu.
+**Následek:** Všichni *hráči* získávají při odhozu stav imunita. Všichni rozehrávající *hráči* získávají ihned po odhozu stav zmražení.
 
-## 5.1. Poslední dotek
-Pokud míč opustí prostor bazénu, poslední hráč, který se míče dotkl, vypadává za předpokladu, že není imunní. V případě sporného doteku se kolo může opakovat.
+## Vybití
+Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápěstí dolů) a poté vodní hladiny bez žádného mezidoteku.
+**Následek:** *Hráč* B získává stav zmražení.
 
-## 5.2. Rozehrávka
+## Stínění
+*Hráč* A se dotýká rukou míče (který je nad vodní hladinou) a *hráče* A se současně dotýká hráče B.
+**Následek:** Hráč B získává stav imunita.
 
-### 5.2.1. Odhoz
-Hlavní rozehrávající hráč musí hodit míč tak, aby měl dostatečný úhel a rychlost na průlet přibližně středem bazénu.
+# *Herní* fauly
 
-### 5.2.2. Imunita hráčů
-Všichni hráči jsou při odhozu imunní.
+## *Hráči*
+**Faulující:** *Hráč*, který se dopustil faulu.
+**Faulovaný:** *Hráč*, který byl omezen faulem. Pokud u konkrétního faulu není uvedeno jinak, faulovanými jsou všichni ostatní *hráči* ve *hře*.
 
-### 5.2.3. Zmražení rozehrávajících
-Všichni rozehrávající jsou hned po odhozu zmraženi.
+## Druhy
+**Špatný odhoz:** Porušení podmínky akce rozehrávka.
+**Dotknutí imunity:** Porušení podmínky svého stavu imunita.
+**Zakázané odmražení:** Porušení podmínky svého stavu zmražení.
+**Pohyb s míčem:** *Hráč* plave, chodí nebo běhá s míčem v horní končetině.
+**Zdržování *hry*:** *Hráč* se bezdůvodně dlouho potápí nebo drží míč v ruce (hranice je přibližně 5 sekund)
+**Nedovolené držení:** *Hráč* fyzicky blokuje soupeře, drží ho nebo ho chytá za plavky a brání mu v pohybu či hře.
+**Stříkání vody:** *Hráč* úmyslně stříká vodu do očí soupeře.
 
-## 5.3. Vybití
-Pokud se míč dotkne hráče A, hráče B s výjimkou rukou, a následně vodní hladiny v daném pořadí a bez jakéhokoli mezidoteku, hráč B je zmražený.
+## Tresty
+**Prvotní:** *Hra* končí v momentu dotyku míče s vodní hladinou. Každý faulovaný *hráč* okamžitě získává stav imunita. První faulující *hráč* se stává hlavním rozehrávajícím v příští *hře* daného *kola*.
+**Sekundární**: Každý další faulující *hráč* v době před koncem *hry* se stává spolurozehrávajícím v příští *hře* daného *kola*. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* kvůli těmto faulům nekončí a pokračuje beze změny.
+**Vyšší:** Úmyslné porušení pravidel se trestá okamžitým vyřazením faulujícího *hráče* z daného *kola*.
 
-## 5.4. Stínění
-Pokud se hráč A dotýká míče rukou (a míč se současně nedotýká vodní hladiny) a hráč B se současně dotýká hráče A, hráč B je imunní.
+# Disciplinární fauly
+Disciplinární fauly se posuzují a trestají bez ohledu na to, zda probíhá *hra* nebo *kolo*.
 
-# 6. Herní fauly
-Fauly, které mohou během hry nastat.
+## Druhy
+**Nebezpečné chování:** *Účastník* úmyslně nebo hrubou nedbalostí ohrožuje zdraví osob nebo poškozuje herní vybavení.
 
-## 6.1. Druhy
+**Maření průběhu *hry*:** *Účastník* úmyslně narušuje nebo zdržuje zahájení, průběh nebo ukončení *hry* (např. odmítnutí rozehrávky).
 
-### 6.1.1. Špatný odhoz
-Hlavní rozehrávající hráč porušil odhoz při rozehrávce.
+**Nesportovní chování:** *Účastník* porušuje fair play, provokuje, uráží ostatní nebo záměrně narušuje sportovní průběh soutěže.
 
-### 6.1.2. Dotknutá imunita
-Hráč porušil svou imunitu.
+## Tresty
+**Napomenutí:** *Účastník* je varován.
 
-### 6.1.3. Nedovolené odmražení
-Hráč porušil své zmražení.
+**Vypadnutí:** Pokud je *účastník* v *kole*, okamžitě z *kola* vypadává.
 
-### 6.1.4. Pohyb s míčem
-Hráč plave, chodí nebo běhá s míčem v ruce.
-
-### 6.1.5. Zdržování hry
-Hráč se bezdůvodně dlouho potápí nebo drží míče v ruce (doporučený limit max 5 sekund).
-
-### 6.1.6. Nedovolené držení
-Hráč jakkoli drží soupeře, chytá ho za plavky nebo ho fyzicky blokuje rukama, které brání soupeři v pohybu či hře. Faulovaný hráč je omezen tímto faulem.
-
-### 6.1.7. Stříkání vody
-Hráč stříká vodu do očí soupeře. Faulovaný hráč je omezen tímto faulem.
-
-## 6.2. Hráči
-
-### 6.2.1. Faulující
-Faulující je každý hráč, který se dopustil faulu.
-
-### 6.2.2. Faulovaný
-Faulovaný je každý hráč, který byl omezen faulem. Pokud faul neuvádí jinak, faulovanými jsou všichni hráči kromě faulujícího.
-
-## 6.3. Trest
-
-### 6.3.1. Prvotní
-První faulující hráč se stane hlavním rozehrávajícím rozehrávky, která se uplatní až v okamžiku, kdy se míč dotkne vodní hladiny.
-Každý faulovaný hráč je imunní.
-
-### 6.3.2. Sekundární
-Každý další faulující hráč během této doby se stává spolurozehrávajícím.
-Pokud všichni faulovaní hráči zároveň faulovali, hra pokračuje beze změny.
-
-### 6.3.3. Vyšší
-Úmyslné porušení pravidel vede k okamžitému vyřazení z kola.
+**Vyšší tresty:** Tresty přesahující rámec aktuálního *kola*. Právo na jejich definování a udělení má organizátor soutěže.
