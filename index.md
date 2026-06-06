@@ -17,7 +17,7 @@ Cílem je zůstat jako poslední v bazéně.
 # Herní vybavení
 
 ## Bazén
-Bazén musí být kruhovitého tvaru o průměru přibližně 3.5 m až 7 m.
+Bazén musí být kruhovitého tvaru o průměru přibližně 3 m až 9 m.
 
 Bazén nesmí obsahovat nebezpečné a ostré části.
 
@@ -34,7 +34,7 @@ Míč musí být z voděodolného materiálu a naplněn vzduchem na přiměřeno
 ### Zakázaná výstroj
 * Šperky, hodinky, fitness náramky a jiné pevné či ostré předměty.
 * Jakékoli předměty, které by mohly mechanicky poškodit míč nebo stěny bazénu.
-* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii míče vo prospěch daného *hráče*.
+* Jakákoli výstroj, která má za cíl ovlivňovat trajektorii míče ve prospěch daného *hráče*.
 
 ---
 
@@ -56,14 +56,14 @@ Kolo se skládá z jednotlivých her a přestávek mezi nimi.
 Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akce a fauly.
 
 * **Začátek:** Zahájení vhazováním, není-li stanoveno jinak.
-* **Konec:** Vypadnutí *hráče* z kola nebo technické přerušení.
+* **Konec:** Vyřazení *hráče* z kola nebo technické přerušení. *Hráči* ztrátí své stavy.
 
 ---
 
 # *Herní* stavy
 
 ## Imunita
-* **Podmínka:** Pokud je *hráč* imunní, nemůže být vyřazen pravidlem posledního doteku.
+* **Podmínka:** Pokud je *hráč* imunní, nemůže být vyřazen pravidlem posledního doteku, ale jenom by ukončil *hru*.
 * **Zánik:** Míč se dotkne vodní hladiny.
 
 ## Zmražení
@@ -75,14 +75,14 @@ Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akc
 # *Herní* akce
 
 ## Poslední dotek
-Míč opustí prostor bazénu.
+Míč je mimo bazén, pokud se dotkne země mimo bazén nebo se zastaví mimo vodu bez kontaktu s hráčem.
 
-* **Následek:** *Hráč*, který se míče dotkl jako poslední, vypadává z *kola* (pokud nemá stav imunita). V případě sporného doteku se *hra* opakuje.
+* **Následek:** *Hráč*, který se míče dotkl jako poslední, je vyřazen z *kola*. V případě sporného doteku se *hra* opakuje.
 
 ## Vhazování
 Uvedení míče do *hry* při zahájení nebo po technickém přerušení.
 
-* **Podmínka:** Rozhodčí nebo určená osoba vhodí míč na střed bazénu z místa mimo bazén. Všichni *hráči* se v momentu odhozu musí dotýkat stěny bazénu. Určená osoba může být ta, která vypadla v předchozí *hře*.
+* **Podmínka:** Rozhodčí nebo určená osoba vhodí míč na střed bazénu z místa mimo bazén. Všichni *hráči* se v momentu odhozu musí dotýkat stěny bazénu. Určená osoba může být ta, která byla vyřazena v předchozí *hře*.
 
 ## Rozehrávka
 Zahájení *hry* odhozem míče.
@@ -96,7 +96,7 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 * **Následek:** *Hráč* B získává stav zmražení.
 
 ## Stínění
-*Hráč* A se dotýká rukou míče (který je nad vodní hladinou) a *hráče* A se současně dotýká hráče B.
+*Hráč* A se dotýká rukou míče (který je nad vodní hladinou) a *hráče* A se současně dotýká *hráče* B.
 
 * **Následek:** Hráč B získává stav imunita.
 
@@ -118,7 +118,7 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 * **Stříkání vody:** *Hráč* úmyslně stříká vodu do očí soupeře.
 
 ## Tresty
-* **Prvotní:** *Hra* končí v momentu dotyku míče s vodní hladinou. Každý faulovaný *hráč* okamžitě získává stav imunita. První faulující *hráč* se stává hlavním rozehrávajícím v příští *hře* daného *kola*.
+* **Prvotní:** *Hra* končí v momentu dotyku míče s vodní hladinou. Každý faulovaný *hráč* okamžitě získává stav imunita. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím v příští *hře* daného *kola*. Pokud není, rozehraje se vhazováním.
 * **Sekundární:** Každý další faulující *hráč* v době před koncem *hry* se stává spolurozehrávajícím v příští *hře* daného *kola*. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* kvůli těmto faulům nekončí a pokračuje beze změny.
 * **Vyšší:** Úmyslné porušení pravidel se trestá okamžitým vyřazením faulujícího *hráče* z daného *kola*.
 
@@ -135,5 +135,5 @@ Disciplinární fauly se posuzují a trestají bez ohledu na to, zda probíhá *
 
 ## Tresty
 * **Napomenutí:** *Účastník* je varován.
-* **Vypadnutí:** Pokud je *účastník* v *kole*, okamžitě z *kola* vypadává.
+* **Vyřazení:** Pokud je *účastník* v *kole*, okamžitě je z *kola* vyřazen.
 * **Vyšší tresty:** Tresty přesahující rámec aktuálního *kola*. Právo na jejich definování a udělení má organizátor soutěže.
