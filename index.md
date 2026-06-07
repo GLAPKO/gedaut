@@ -80,9 +80,9 @@ Míč je mimo bazén, pokud se dotkne země mimo bazén nebo se zastaví mimo vo
 * **Následek:** *Hráč*, který se míče dotkl jako poslední, je vyřazen z *kola*. V případě sporného doteku se *hra* opakuje.
 
 ## Vhazování
-Uvedení míče do *hry* při zahájení nebo po technickém přerušení.
+Výchozí uvedení míče do *hry*.
 
-* **Podmínka:** Rozhodčí nebo určená osoba vhodí míč na střed bazénu z místa mimo bazén. Všichni *hráči* se v momentu odhozu musí dotýkat stěny bazénu. Určená osoba může být ta, která byla vyřazena v předchozí *hře*.
+**Podmínka:** Rozhodčí nebo určená osoba uvede míč do *hry* odhozem z místa mimo bazén tak, aby se míč dotkl vodní hladiny uvnitř bazénu. *Hra* začíná okamžikem tohoto dotyku. Určená osoba může být ta, která byla vyřazena v předchozí hře.
 
 ## Rozehrávka
 Zahájení *hry* odhozem míče.
