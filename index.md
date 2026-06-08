@@ -41,7 +41,7 @@ Míč musí být z voděodolného materiálu a naplněn vzduchem na přiměřeno
 # Definice
 
 ## *Hráč*
-Fyzická osoba a jeho vybavení hrající v aktuální *hře*.
+Fyzická osoba a její vybavení hrající v aktuální *hře*.
 
 ## *Účastník*
 Fyzická osoba účastnící se v nejširším kontextu soutěže.
