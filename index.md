@@ -113,7 +113,7 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 * **Dotknutí imunity:** Porušení podmínky svého stavu imunita.
 * **Zakázané odmražení:** Porušení podmínky svého stavu zmražení.
 * **Pohyb s míčem:** *Hráč* plave, chodí nebo běhá s míčem v horní končetině.
-* **Zdržování *hry*:** *Hráč* se bezdůvodně dlouho potápí nebo drží míč v ruce (hranice je přibližně 5 sekund).
+* **Zdržování *hry*:** *Hráč* se dlouho potápí nebo drží míč v ruce (hranice je přibližně 5 sekund).
 * **Nedovolený kontakt:** *Hráč* drží, strká, přitlačuje nebo jinak aktivně omezuje soupeře v pohybu. Faulovaný hráč je omezen tímto faulem.
 * **Stříkání vody:** *Hráč* úmyslně stříká vodu do očí soupeře. Faulovaný hráč je omezen tímto faulem.
 
