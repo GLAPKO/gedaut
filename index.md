@@ -119,7 +119,7 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 ## Tresty
 **Okamžitý důsledek:** Každý faulovaný *hráč* získává stav imunita.
 **Konec *hry*:** *Hra* končí dotykem míče s vodní hladinou. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* pokračuje beze změny.
-**Následek:** Při rozehrávce následující *hry* daného *kola* mají faulovaní *hráči* imunitu. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím, ostatní faulující se stávají spolurozehrávajícími.
+**Následek:** Při rozehrávce následující *hry* daného *kola* mají faulovaní *hráči* imunitu. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím, ostatní faulující se stávají rozehrávajícími.
 **Vyšší:** Úmyslný faul znamená vyřazení faulujícího *hráče* z daného *kola*.
 
 ---
