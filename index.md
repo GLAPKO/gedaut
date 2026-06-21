@@ -117,9 +117,10 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 * **Stříkání vody:** *Hráč* úmyslně stříká vodu do očí soupeře. Faulovaný hráč je omezen tímto faulem.
 
 ## Tresty
-**Prvotní:** *Hra* končí dotykem míče s vodní hladinou. Každý faulovaný *hráč* získává stav imunita a má jej i při rozehrávce v následující *hře* daného *kola*. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím v následující *hře* daného *kola*, jinak se rozehrává vhazováním.
-**Sekundární:** Další faulující *hráči* před koncem *hry* se stávají spolurozehrávajícími v následující *hře* daného *kola*. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* pokračuje beze změny.
-**Vyšší:** Úmyslný faul znamená okamžité vyřazení faulujícího *hráče* z daného *kola*.
+**Okamžitý důsledek:** Každý faulovaný *hráč* získává stav imunita.
+**Konec *hry*:** *Hra* končí dotykem míče s vodní hladinou. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* pokračuje beze změny.
+**Následek:** Při rozehrávce následující *hry* daného *kola* mají faulovaní *hráči* imunitu. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím, ostatní faulující se stávají spolurozehrávajícími.
+**Vyšší:** Úmyslný faul znamená vyřazení faulujícího *hráče* z daného *kola*.
 
 ---
 
