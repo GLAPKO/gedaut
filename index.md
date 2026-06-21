@@ -63,7 +63,7 @@ Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akc
 # *Herní* stavy
 
 ## Imunita
-* **Podmínka:** Pokud je *hráč* imunní, nemůže být vyřazen pravidlem posledního doteku, ale jenom by ukončil *hru*.
+* **Podmínka:** Pokud je *hráč* imunní, nesmí být vyřazen pravidlem posledního doteku, místo toho se ukončí *hra*.
 * **Zánik:** Míč se dotkne vodní hladiny.
 
 ## Zmražení
