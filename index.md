@@ -95,7 +95,7 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 * **Následek:** *Hráč* B získává stav zmražení.
 
 ## Stínění
-*Hráč* A se dotýká rukou míče a *hráče* A se současně dotýká *hráče* B. Oba doteky musí probíhat nad vodní hladinou.
+*Hráč* A se dotýká rukou míče a současně se dotýká *hráče* B. Oba doteky musí probíhat nad vodní hladinou.
 
 * **Následek:** Hráč B získává stav imunita.
 
