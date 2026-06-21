@@ -87,7 +87,7 @@ Výchozí uvedení míče do *hry*.
 Zahájení *hry* odhozem míče.
 
 * **Podmínka:** Hlavní rozehrávající *hráč* musí odhodit míč dostatečnou rychlostí přibližně na průlet středem bazénu.
-* **Následek:** Všichni *hráči* získávají při odhozu stav imunita. Všichni rozehrávající *hráči* získávají ihned po odhozu stav zmražení.
+* **Následek:** Všichni *hráči*, není-li stanoveno jinak, získávají při odhozu stav imunita. Všichni rozehrávající *hráči* získávají ihned po odhozu stav zmražení.
 
 ## Vybití
 Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápěstí dolů) a poté vodní hladiny bez žádného mezidoteku.
@@ -117,9 +117,9 @@ Míč se dotkne *hráče* A, následně *hráče* B s výjimkou rukou (od zápě
 * **Stříkání vody:** *Hráč* úmyslně stříká vodu do očí soupeře. Faulovaný hráč je omezen tímto faulem.
 
 ## Tresty
-* **Prvotní:** *Hra* končí v momentu dotyku míče s vodní hladinou. Každý faulovaný *hráč* okamžitě získává stav imunita. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím v příští *hře* daného *kola*. Pokud není, rozehraje se vhazováním.
-* **Sekundární:** Každý další faulující *hráč* v době před koncem *hry* se stává spolurozehrávajícím v příští *hře* daného *kola*. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* kvůli těmto faulům nekončí a pokračuje beze změny.
-* **Vyšší:** Úmyslné porušení pravidel se trestá okamžitým vyřazením faulujícího *hráče* z daného *kola*.
+**Prvotní:** *Hra* končí dotykem míče s vodní hladinou. Každý faulovaný *hráč* získává stav imunita a má jej i při rozehrávce v následující *hře* daného *kola*. První nevyřazený faulující *hráč* se stává hlavním rozehrávajícím v následující *hře* daného *kola*, jinak se rozehrává vhazováním.
+**Sekundární:** Další faulující *hráči* před koncem *hry* se stávají spolurozehrávajícími v následující *hře* daného *kola*. Pokud všichni faulovaní *hráči* zároveň faulovali, *hra* pokračuje beze změny.
+**Vyšší:** Úmyslný faul znamená okamžité vyřazení faulujícího *hráče* z daného *kola*.
 
 ---
 
