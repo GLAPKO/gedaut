@@ -63,7 +63,7 @@ Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akc
 # *Herní* stavy
 
 ## Imunita
-* **Podmínka:** Pokud je *hráč* imunní, nesmí být vyřazen pravidlem posledního doteku, místo toho se ukončí *hra*.
+* **Podmínka:** Pokud je *hráč* imunní, nesmí být určeným pravidlem posledního doteku, následkem je konec *hry*.
 * **Zánik:** Míč se dotkne vodní hladiny.
 
 ## Zmražení
@@ -74,10 +74,9 @@ Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akc
 
 # *Herní* akce
 
-## Poslední dotek
-Míč je mimo bazén, pokud se dotkne země mimo bazén nebo se zastaví mimo vodu bez kontaktu s hráčem.
-
-* **Následek:** *Hráč*, který se míče dotkl jako poslední, je vyřazen z *kola*. V případě sporného doteku se *hra* opakuje.
+# Poslední dotek
+* **Podmínka:** Určí se *hráč*, který se míče dotkl jako poslední před opuštěním bazénu nebo zastavením mimo vodu bez kontaktu s *hráčem*.
+* **Následek:** Tento hráč je vyřazen z kola, není-li stanoveno jinak. V případě sporného doteku se může *hra* opakovat.
 
 ## Vhazování
 Výchozí uvedení míče do *hry*.
